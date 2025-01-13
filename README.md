@@ -11,14 +11,19 @@ Capstone Project 2: AWS SaaS Sales Dataset (Purwadhika) Data Science Program-270
 3. Data
 
 3.1. Setup Data
+
 3.2. Data Exploration
+
 3.3. Data Cleaning
+
 3.4. Data Review
 
 4. Data Analysis
 
 4.1. Tracking Profitability Analysis
+
 4.2. Sales & Profit Analysis
+
 4.3. RFM Analysis
 
 5. Final Summarization
