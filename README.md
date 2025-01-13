@@ -1,20 +1,30 @@
 # capstone_2
 Capstone Project 2: AWS SaaS Sales Dataset (Purwadhika) Data Science Program-2704. Here, I identified various problems related to the business needs and challenges of the company. This project focuses on data analysis, where I took on the role of a data analyst within the organization.
-Contents
 
-**Background**
-Problem Statement
-Data
+**Contents**
+<br>
+1. Background
+2. Problem Statement
+3. Data
+<br>
 3.1. Setup Data
+<br>
 3.2. Data Exploration
+<br>
 3.3. Data Cleaning
+<br>
 3.4. Data Review
-Data Analysis
+4. Data Analysis
+<br>
 4.1. Tracking Profitability Analysis
+<br>
 4.2. Sales & Profit Analysis
+<br>
 4.3. RFM Analysis
-Final Summarization
+6. Final Summarization
+<br>
 5.1. Conclusion
+<br>
 5.2. Recommendation
 
 ***
