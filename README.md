@@ -71,3 +71,9 @@ This dataset contains transaction data from a fictitious SaaS company selling sa
 | Discount     | The discount applied to the transaction.                 |
 | Profit       | The profit from the transaction.                         | 
 
+
+Contribution
+If you'd like to contribute, feel free to submit a pull request or suggest improvements.
+
+License
+This project is open-source and free to use under the MIT License.
